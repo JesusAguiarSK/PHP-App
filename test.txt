@@ -1,0 +1,2 @@
+curl -X GET "https://themetestingsk.myshopify.com/admin/api/2023-01/products.json" \
+-H "X-Shopify-Access-Token: shpua_0487d72321d25ad3f655066811a5c91811
